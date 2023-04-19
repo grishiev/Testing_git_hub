@@ -41,4 +41,4 @@ while True:
             print(players[start], " starts\n")
     break
 
-# The program is to be split in two parts            
+# The program is to be split in two parts            print(5+5)
